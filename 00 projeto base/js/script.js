@@ -1,0 +1,1 @@
+console.log ('teste no cosole do javascript')
